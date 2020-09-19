@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1600360409 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c++\colour\color.cc
+	<iostream>
+	"color.h"
+
+1600360483 c:\users\user\desktop\ltts doc and tasks\ltts training\c++\colour\color.h
+	<iostream>
+
+1600360501 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c++\colour\color_test.cc
+
+1600410911 source:c:\users\training\downloads\colour-20200918t031456z-001\colour\color_test.cc
+	"Color.h"
+	<gtest/gtest.h>
+
+1600413463 c:\users\training\downloads\colour-20200918t031456z-001\colour\color.h
+	<iostream>
+
+1600410900 source:c:\users\training\downloads\colour-20200918t031456z-001\colour\color.cc
+	<iostream>
+	"color.h"
+

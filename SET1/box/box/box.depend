@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1600362657 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c++\box\box.cc
+	<iostream>
+	"box.h"
+
+1600362514 c:\users\user\desktop\ltts doc and tasks\ltts training\c++\box\box.h
+	<iostream>
+
+1600362942 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c++\box\box_test.cc
+	"Box.h"
+	<gtest/gtest.h>
+
+1600399064 source:c:\users\training\downloads\box-20200918t031710z-001\box\box.cc
+	<iostream>
+	"box.h"
+
+1600399064 c:\users\training\downloads\box-20200918t031710z-001\box\box.h
+	<iostream>
+
+1600402902 source:c:\users\training\downloads\box-20200918t031710z-001\box\box_test.cc
+	"Box.h"
+	<gtest/gtest.h>
+

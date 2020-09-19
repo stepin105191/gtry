@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600409617 source:c:\users\training\desktop\image\image.cc
+	<iostream>
+	"image.h"
+
+1600409617 c:\users\training\desktop\image\image.h
+	<iostream>
+
